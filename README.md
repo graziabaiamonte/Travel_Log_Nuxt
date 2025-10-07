@@ -1,39 +1,7 @@
-# Nuxt Travel Log
+# Travel Log - Nuxt
 
-A full stack application built with Nuxt that allows users to keep track of all the places they've been.
+Full Stack app with Nuxt / Vue / TypeScript that allows users to keep track of the places they have visited and view them on a map.
 
-## Setup
-
-Create a `.env` file and update with your values:
-
-```sh
-cp .env.example .env
-```
-
-Make sure to install dependencies:
-
-```bash
-pnpm install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-pnpm dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-pnpm build
-```
-
-Locally preview production build:
-
-```bash
-pnpm preview
-```
+![Screen Home](/public/readme/home_travel_log.png)
+![Screen Home](/public/readme/inner_travel_log.png)
+![Screen Home](/public/readme/place_travel_log.png)
